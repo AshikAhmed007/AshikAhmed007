@@ -25,8 +25,6 @@ Hello there 👋, I'm **Ashik Ahmed**, a passionate **Web Pentester** and **Cybe
 
 ---
 
-
----
 > 💡 **Note**: All of my penetration testing and security assessments are conducted in authorized environments. I follow ethical hacking guidelines and responsible disclosure protocols to ensure security improvements for everyone.
 
 ---
