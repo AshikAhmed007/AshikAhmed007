@@ -15,38 +15,6 @@ Hello there 👋, I'm **Ashik Ahmed**, a passionate **Web Pentester** and **Cybe
 
 ---
 
-## 🧰 Tools & Technologies
-
-### 💻 **Web Security & Pen Testing**
-- **Burp Suite**  
-- **OWASP ZAP**  
-- **Nikto**  
-- **SQLmap**
-
-### ⚙️ **Exploit Development & Frameworks**
-- **Metasploit**  
-- **SET (Social Engineering Toolkit)**  
-- **Hydra**  
-
-### 🌐 **Recon & Scanning**
-- **Nmap**  
-- **Nessus**  
-- **Dirb**  
-- **Recon-ng**  
-
-### 📡 **Wi-Fi Auditing & Network Analysis**
-- **Wifite**  
-- **Airmon-ng**  
-- **Aircrack-ng**
-
-### 🖥️ **Scripting & Development**
-- **Python**  
-- **PHP**  
-- **MySQL**  
-- **Laravel**
-
----
-
 ## 🧠 My Skills
 
 - 🔍 **Manual & Automated Penetration Testing**
@@ -57,28 +25,8 @@ Hello there 👋, I'm **Ashik Ahmed**, a passionate **Web Pentester** and **Cybe
 
 ---
 
-## 📂 Featured Projects
-
-### 🔐 [File Encryption-Decryption Tool](https://github.com/AshikAhmed007/File-Encryption-DecryptionTool)  
-A tool designed to encrypt and decrypt files using **Python** and **Fernet encryption**.
-
-### 📡 [Phishing Campaign Analyzer](https://github.com/AshikAhmed007/Phishing-Campaign-Analyzer)  
-A project to simulate phishing campaigns, track results, and improve security awareness training.
-
-### 🛡️ **Web Vulnerability Lab**  
-A vulnerable web application created for testing and learning about web security flaws like **XSS**, **SQL Injection**, and **RCE**.
 
 ---
-
-## 📫 Let's Connect
-
-- 📧 **Email**: [ashikahmedgd007@gmail.com](mailto:ashikahmedgd007@gmail.com)
-- 🌐 **LinkedIn**: [Ashik Ahmed](https://www.linkedin.com/in/ashikahmed007)
-- 💻 **GitHub**: [@AshikAhmed007](https://github.com/AshikAhmed007)
-- 🐦 **Twitter**: [@AshikCyberSec](https://twitter.com/AshikCyberSec)
-
----
-
 > 💡 **Note**: All of my penetration testing and security assessments are conducted in authorized environments. I follow ethical hacking guidelines and responsible disclosure protocols to ensure security improvements for everyone.
 
 ---
