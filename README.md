@@ -122,5 +122,3 @@ Combines:
 
 ---
 
-![Ashik Ahmed](https://img.shields.io/badge/Skills-Web%20Pentesting-%2314cc68?style=for-the-badge&logo=python)
-![Cybersecurity Enthusiast](https://img.shields.io/badge/Cybersecurity%20Enthusiast-%23FF6A00?style=for-the-badge&logo=security)
